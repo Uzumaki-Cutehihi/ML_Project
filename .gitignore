@@ -1,0 +1,40 @@
+# CleanData folder - chứa processed data và features
+CleanData/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (nếu có)
+*.pth
+*.h5
+*.pkl
+*.ckpt
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
